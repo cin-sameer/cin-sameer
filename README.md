@@ -4,7 +4,11 @@ Portfolio:https://my-portfolio-eight-pink-20.vercel.app/
 ### 🎓 3rd-Year CSE (AIML) Undergrad |  AI/ML Engineer in the Making |  GSSoC'25 Contributor
 
 ---
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="cin-sameer's GitHub profile" src="dark_mode.svg" />
+</picture>
 ##  About Me
 
 -  Currently building **agentic AI systems** , multi-agent pipelines, RAG, and LLM-powered tools
