@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="cin-sameer's GitHub profile" src="dark_mode.svg" width="100%" />
+</picture>
+
 # 👋 Hi, I'm Sameer
 Portfolio:https://my-portfolio-eight-pink-20.vercel.app/
 
